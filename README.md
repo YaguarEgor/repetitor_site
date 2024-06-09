@@ -12,4 +12,8 @@
 11) git checkout . - откат всех изменений до последнего коммита
 12) git reset file.txt/. - вытащить файл/все файлы из stage
 13) git reset --soft HEAD^1 - выкинуть все измеения из последнего commit, оставив все изменения в файлах
-14) 
+14) git branch bran - создать ветку bran
+15) git checkout bran - переход в ветку bran
+16) git branch - показать все ветки
+17) git branch -m new_name - переименовать текущую ветку
+18) git checkout bebeb - возврат к коммиту bebeb
