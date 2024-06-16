@@ -17,3 +17,6 @@
 16) git branch - показать все ветки
 17) git branch -m new_name - переименовать текущую ветку
 18) git checkout bebeb - возврат к коммиту bebeb
+
+Полезно:
+1) https://www.youtube.com/watch?v=ZgojwJEcLn8
